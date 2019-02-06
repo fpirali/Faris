@@ -78,6 +78,8 @@
     <Content Include="elements.html" />
     <Content Include="generic.html" />
     <Content Include="images\bg.jpg" />
+    <Content Include="images\faris14.jpg" />
+    <Content Include="images\featured.jpg" />
     <Content Include="images\Image2.jpg" />
     <Content Include="images\pic01.jpg" />
     <Content Include="images\pic02.jpg" />
